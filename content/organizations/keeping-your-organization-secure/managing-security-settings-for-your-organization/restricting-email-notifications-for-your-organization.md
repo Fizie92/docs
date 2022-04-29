@@ -19,7 +19,6 @@ topics:
   - Policy
 shortTitle: Restrict email notifications
 ---
-
 ## About email restrictions
 
 When restricted email notifications are enabled in an organization, members can only use an email address associated with a verified or approved domain to receive email notifications about organization activity. For more information, see "[Verifying or approving a domain for your organization](/organizations/managing-organization-settings/verifying-or-approving-a-domain-for-your-organization)."
